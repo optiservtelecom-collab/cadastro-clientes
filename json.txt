@@ -1,0 +1,21 @@
+{
+  "name": "Cadastro Vendedores",
+  "short_name": "Vendedores",
+  "description": "App de cadastro de clientes",
+  "start_url": "https://script.google.com/macros/s/AKfycbza7ogedy5oKOJ2nAv281UUC4cymHfGqu34SgdSvBiNTbqtJq_A7Z965KU9kDGwQ1nl/exec",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FF0000",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/N9rtVdM.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.imgur.com/N9rtVdM.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
